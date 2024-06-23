@@ -1,0 +1,49 @@
+: : : Mathias Jimenez : : :    
+   R15/Ritgamx/Ritsuki (In Social Media)        
+________________________________________________________________________________________________________________________
+
+ -  Creator Hacks.                                                                                
+ -  Cybersecurity.                                                             
+ -  Graphic Design.                                                                 
+ -  Programmer.                
+                                                  
+_________________________________________________________________________________________________________________________ Objetivos Clave
+
+Para poder crear o diseñar varios programar archivos o extensiones, se necesitan tres claves:
+
+-  Paciencia
+-  Determinacion
+-  Objetivo
+
+Con esas tres claves podemos crear todo lo que este a nuestro alcanze, desde un pequeño contador de puntos, hasta un programa que inicie
+el computador cada hora...
+Ahora si bien es cierto, crear un programa complejo no es facil, pero tampoco imposible, se necesita dedicacion y esfuerzo, y aun mayor si lo vas a
+crear solo.
+
+Estas carpetas y archivos son pequeñeses cualquiera lo puede realizar viendo tutoriales o hacer copia y pega en internet, pero realizarlo
+por tu cuenta, ya es otro nivel..
+
+
+Muy bien. Con esos conceptos, ya tienes motivacion para hacer lo que desees. Bueno vamos alla!
+______________________________________________________________________________________________________________________ Aclaraciones de temas
+
+Hay que aclarar que los archivos a crear son inofensivos (bueno depende de que fin lo quieras creer), No lo utilizes para perjudicar.
+
+Hay tipos de extensiones para crear en el sistema como en este caso (Windows) (El Sistema Operativo mas utilizado)
+Vbs.Bat.Exe.Cmd entre otros (La extension mas utilizada es .EXE) (Aplicacion)
+todos estos archivos estan creado con varias extensiones y son faciles de hacer y entender.
+No es nada dificil, lo mas sencillo esta desde el Nivel "Facil" a "Contencion", lo demas ya va mas alla.
+
+______________________________________________________________________________________________________________________ Instrucciones para Empezar
+
+ - Para Empezar a crear, dirigete a la carpeta "New Proyects", y abre el Archivo de texto.
+-- - -   ---  - -- - - - -- - - ---------- - - - - ------ - - ------- -- -- --  - - -   ------  ---- ----  ------- - -   ------  ---- ----  ------- - -  ---- ----  ------- - -  ---- ----  ------- - -  ---- ----  ------- - -  ---- ----  ------- - - 
+   * Si lo deseas, puedes agregar tu nombre, y dar click en Archivo y Guardar, para mejor determinacion.    |   PSDT.-  El Archivo no se borra, Es Reutilizable.
+   * Los archivos que vayas creando, lo guardas en la misma carpeta "New Proyects", Hasta que este totalmente modificado para su clasificacion y uso.
+   * Para guardar los trabajos listos: Archivo/Guardar como. (Depende tambien de que aplicacion o pagina estes creando archvos de hipertexto)
+--- ----- ------  ------  ---- ----  ------- - - - - - - - - - - --- - - --- - -- --  ------  ---- ----  ------- - -   ------  ---- ----  ------- - -  ---- ----  ------- - -  ---- ----  ------- - -  ---- ----  ------- - -  ---- ----  ------- - - 
+
+
+
+
+

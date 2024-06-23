@@ -1,0 +1,1 @@
+x=msgbox("La pc esta en un momento critico", 0+64, "Por favor espera... estamos arreglando los problemas")

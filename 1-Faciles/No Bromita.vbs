@@ -1,0 +1,1 @@
+x=msgbox("Cod00///00002 ", 0+32, "Hay Un Troyano en el sistema!!! XD")

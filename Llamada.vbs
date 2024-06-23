@@ -1,0 +1,1 @@
+x=msgbox("Link al 911:(numero telefono) ",0+18, "Llamando...")

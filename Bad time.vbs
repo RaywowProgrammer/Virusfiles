@@ -1,0 +1,1 @@
+x=msgbox("¿Quieres Pasar un mal rato?",0+18, "Determinac?(/%$*^¨Ç")

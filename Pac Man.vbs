@@ -1,0 +1,1 @@
+x=msgbox("Tu equipo se esta reparando, Espera..", Boton+Icono, "Perdida de Archivos")
